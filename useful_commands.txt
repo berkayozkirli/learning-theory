@@ -1,1 +1,2 @@
 uv run --with jupyter jupyter lab ## Start a jupyter lab
+source .venv/bin/activate ## Activate uv venv
